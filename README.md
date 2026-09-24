@@ -4,8 +4,6 @@ Hi there 👋, Welcome to my GitHub!
 
 🔭 I'm currently focused on practicing Data Structures & Algorithms
 
-🌱 I'm currently learning Java
+💻 Check out my DSA prep repo where I track my progress: [DSA Prep](https://github.com/fonsogeorge23/Data-Structure-and-Algorithm)
 
-💻 Check out my DSA prep repo where I track my progress
-
-📫 Connect with me on LinkedIn: https://www.linkedin.com/in/fonsogeorge/
+📫 Connect with me on LinkedIn: [fonsogeorge](https://www.linkedin.com/in/fonsogeorge)
